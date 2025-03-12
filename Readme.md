@@ -1,7 +1,6 @@
-# CrewAI
+# Chainlit
 
-This repository highlights innovative implementations and applications of Multi Agent Systems using **CrewAI**.
-
+This repository showcases innovative implementations and applications built using **Chainlit**.
 ## Table of Contents
 
 - [Core Concepts](#core-concepts)
@@ -12,7 +11,7 @@ This repository highlights innovative implementations and applications of Multi 
 The projects below illustrate the core components of CrewAI:
 
 1. **Unlocked**  
-   [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/01%20-%20Unlocked/uv-helloworld)
+   [View Project](https://github.com/EngineerAbdulQadir/Chainlit/tree/main/Gauge/01%20-%20Unlocked/chainlit)
 
 ## License
 
