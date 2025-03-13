@@ -13,7 +13,7 @@ The projects below illustrate the core components of CrewAI:
 1. **Unlocked**  
    [View Project](https://github.com/EngineerAbdulQadir/Chainlit/tree/main/Gauge/01%20-%20Unlocked/chainlit)
 
-2. **OpenAI Agent** *(Chat With History)*  
+2. **Chat With History**  
    [View Project](https://github.com/EngineerAbdulQadir/Chainlit/tree/main/Gauge/02%20-%20OpenAI%20Agent%20(Chat%20With%20History)/grinding)
 
 ## License
