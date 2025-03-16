@@ -8,7 +8,7 @@ This repository showcases innovative implementations and applications built usin
 
 ## Core Concepts
 
-The projects below illustrate the core components of CrewAI:
+The projects below illustrate the core components of Chainlit:
 
 1. **Unlocked**  
    [View Project](https://github.com/EngineerAbdulQadir/Chainlit/tree/main/Gauge/01%20-%20Unlocked/chainlit)
